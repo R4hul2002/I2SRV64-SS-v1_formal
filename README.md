@@ -1,6 +1,6 @@
 # I2SRV64-SS (64-bit Superscalar Out-of-Order RISC-V Processor)
 
-This is a synthesizable and parameterizable RV64GC RISC-V core written in the Verilog hardware construction language, implemented and tested on Xilinx Virtex-7 FPGA VC707 Evaluation Kit. Created at  Reconfigurable Computation Lab, Department of Electronic System Engineering, Indian Institute of Science (IISc), Bengalure.
+This is a synthesizable and parameterizable RV64GC RISC-V core written in the Verilog hardware construction language, implemented and tested on Xilinx Virtex-7 FPGA VC707 Evaluation Kit. Created at  Reconfigurable Computation Lab, Department of Electronic System Engineering, Indian Institute of Science (IISc), Bengal.
 
 Processor core implements supervisory and user privilege levels of RISC-ISA, support booting Linux OS.
 
